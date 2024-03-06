@@ -2,6 +2,8 @@
 
 Welcome to the Southern Cross AI project, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.
 
+[Webpage](https://www.southerncross.ai) [Doc Page](https://www.docs.southerncross.ai)
+
 **Here are some suggestions for the main project page** 👋
 
 🙋‍♀️ A short introduction - what is your organization all about?
