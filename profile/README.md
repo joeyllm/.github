@@ -1,15 +1,13 @@
 # Southern Cross AI - Australia's first large language model research initiative
 
-Welcome to the Southern Cross AI project, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.
+🙋‍♀️ Welcome to the Southern Cross AI project, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.
 
 [Webpage](https://www.southerncross.ai) [Doc Page](https://www.docs.southerncross.ai)
 
 **Here are some suggestions for the main project page** 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
