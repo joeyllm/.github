@@ -1,10 +1,18 @@
-# Southern Cross AI - Australia's first large language model research initiative
+<div align="center">
+  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_readme.png?raw=true)" alt="logo">
+</div>
 
-🙋‍♀️ Welcome to the Southern Cross AI project, aimed at developing Australia's first sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.
+<!-- badges -->
+<div align="center">
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&logoColor=black&label=%E2%9C%AF%20Southern%20Cross%20AI&labelColor=purple"> &nbsp;
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&logo=huggingface&logoColor=black&label=Hugging%20Face&labelColor=%23FFD21E"> &nbsp;
+   <img alt="Discord" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord&labelColor=blue&color=gray"> &nbsp;
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Events&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red">
+</div>
 
-[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&label=🌟%20Southern%20Cross%20AI&labelColor=blue&color=gray)](https://www.southerncross.ai)
-[![Hugging Face](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&label=🤗%20Hugging%20Face&labelColor=yellow)](https://huggingface.co/SouthernCrossAI)
-[![Discord](https://img.shields.io/discord/1211168857746833408?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=%233972f7&color=gray)](https://discord.gg/nvVkJShz6K)
+------
+
+🙋 Welcome to Southern Cross AI! We aim at developing Australia's first sovereign open-source large language model (LLM) through collaborative efforts across academia, research, government, and business sectors.
 
 **Here are some suggestions for the main project page** 👋
 
