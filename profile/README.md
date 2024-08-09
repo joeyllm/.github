@@ -26,7 +26,7 @@
 ------
 
 ### Let's Meetup!
-Join our exacting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every week at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). <br>
+Join our exaciting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). <br>
 Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joey 7b (GPT) and Components](https://www.meetup.com/nlp-aiwizardsofoz/events/301968625/)
 
 
