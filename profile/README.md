@@ -12,11 +12,13 @@
 
 <br>
 
-💙 Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
+<div align="center">
+  Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
+</div>
 
 ------
 
-## Resources that help you onboard LLMs:
+## Resources That Help You Onboard LLMs
 - Wanna speed run basic structures of LLMs 🙇 <br>
   - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net). <br>
   - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
