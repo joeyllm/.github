@@ -32,6 +32,15 @@
   - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT). <br>
   - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
 
+## Other Tools
+- Compare LLMs:
+  - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai) <br>
+  - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) <br>
+  - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai) <br>
+  - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard) <br>
+  - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+  
+
 **Here are some suggestions for the main project page** 👋
 
 🌈 Contribution guidelines - how can the community get involved?
