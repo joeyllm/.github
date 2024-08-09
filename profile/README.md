@@ -1,24 +1,34 @@
+<!-- img -->
 <div align="center">
   <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_logo.png">
 </div>
+<!-- img -->
 
 <!-- badges -->
 <div align="center">
    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&logoColor=black&label=%E2%9C%AF%20Southern%20Cross%20AI&labelColor=purple"> &nbsp;
    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow"> &nbsp;
    <img alt="Discord" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord&labelColor=blue&color=gray"> &nbsp;
-   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Events&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red">
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Group&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red">
 </div>
+<!-- badges -->
 
 <br>
 
+<!-- info -->
 <div align="center">
   Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
 </div>
+<!-- info -->
 
 ------
 
-## Onboard LLMs
+### Let's Meetup!
+Join our exacting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every week at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K).
+
+Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joey 7b (GPT) and Components](https://www.meetup.com/nlp-aiwizardsofoz/events/301968625/)
+
+### Onboard LLMs
 - Speed run basic structures of LLMs 🙇 <br>
   - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net). <br>
   - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
@@ -32,7 +42,7 @@
   - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT). <br>
   - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
 
-## Other Tools
+### Other Tools
 - Compare popular LLMs 💯
   - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai) <br>
   - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) <br>
