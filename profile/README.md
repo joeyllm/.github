@@ -10,9 +10,25 @@
    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Events&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red">
 </div>
 
+<br>
+
+💙 Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
+
 ------
 
-🙋 Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
+## Resources that help you onboard LLMs:
+- Wanna speed run basic structures of LLMs 🙇 <br>
+  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net). <br>
+  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
+    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP) <br>
+    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
+- Wanna build a LLM from scratch by your self 🧑‍💻 <br>
+  - Follow one of [tutorial videos](https://www.youtube.com/@AndrejKarpathy) produced by [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist).
+- Wanna read some simple yet functional LLM repos 🤓 <br>
+  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch. <br>
+  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT). <br>
+  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT). <br>
+  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
 
 **Here are some suggestions for the main project page** 👋
 
