@@ -17,16 +17,35 @@
 
 <!-- info -->
 <div align="center">
-  Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
+  ✨ Welcome to Southern Cross AI ✨ <br>
+  We aim at developing Australia's First Open-Source Large Language Model <br>
+  through collaborations across academia, research, government, and business sectors.
 </div>
 <!-- info -->
 
 ------
 
 ### Let's Meetup!
-Join our exacting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every week at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K).
-
+Join our exacting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every week at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). <br>
 Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joey 7b (GPT) and Components](https://www.meetup.com/nlp-aiwizardsofoz/events/301968625/)
+
+
+### Call for Contributors
+
+- Data Resource Contributor
+
+- Data Collecting, Crawling, Scraping
+
+- Data Cleaning
+
+- Model Building, Tuning, Training
+
+- GitHub Organising
+
+- Hugging Face Organising
+
+- Social Media Organising
+
 
 ### Onboard LLMs
 - Speed run basic structures of LLMs 🙇 <br>
