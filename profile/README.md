@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_readme.png?raw=true)" alt="logo">
+  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_logo.png">
 </div>
 
 <!-- badges -->
@@ -12,7 +12,7 @@
 
 ------
 
-🙋 Welcome to Southern Cross AI! We aim at developing Australia's first sovereign open-source large language model (LLM) through collaborative efforts across academia, research, government, and business sectors.
+🙋 Welcome to Southern Cross AI! We aim at developing Australia's First Open-Source Large Language Model through collaboration across academia, research, government, and business sectors.
 
 **Here are some suggestions for the main project page** 👋
 
