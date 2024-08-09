@@ -2,8 +2,8 @@
 
 🙋‍♀️ Welcome to the Southern Cross AI project, aimed at developing Australia's first sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.
 
-[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&label=Southern%20Cross%20AI&labelColor=blue&color=gray)](https://www.southerncross.ai)
-[![Hugging Face](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow)](https://huggingface.co/SouthernCrossAI)
+[![Webpage](https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&label=🌟%20Southern%20Cross%20AI&labelColor=blue&color=gray)](https://www.southerncross.ai)
+[![Hugging Face](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&label=🤗%20Hugging%20Face&labelColor=yellow)](https://huggingface.co/SouthernCrossAI)
 [![Discord](https://img.shields.io/discord/1211168857746833408?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=%233972f7&color=gray)](https://discord.gg/nvVkJShz6K)
 
 **Here are some suggestions for the main project page** 👋
