@@ -1,6 +1,6 @@
 <!-- img -->
 <div align="center">
-  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_logo.png">
+  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_title.png">
 </div>
 <!-- img -->
 
