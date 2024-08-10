@@ -1,6 +1,6 @@
 <!-- title pic -->
 <div align="center">
-  <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_title.png">
+  <img src="pics/title_pic.png">
 </div>
 <!-- title pic -->
 
