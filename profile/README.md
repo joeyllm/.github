@@ -22,38 +22,24 @@
 
 <br>
 
-<!-- info -->
+<!-- bio -->
 <div align="center">
   ✨ Welcome to Southern Cross AI ✨ <br>
   We aim at developing Australia's First Open-Source Large Language Model <br>
   through collaborations across academia, research, government, and business sectors.
 </div>
-<!-- info -->
+<!-- bio -->
 
 ------
 
-### Let's Meetup!
-Join our exaciting 12-week [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). <br>
+## Wanna make friends and munch some pizza? Let's Meetup!
+Join our exciting 12-week (Aug 5 - Oct 7) [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). 
+
 Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joey 7b (GPT) and Components](https://www.meetup.com/nlp-aiwizardsofoz/events/301968625/)
 
+-----
 
-### Call for Contributors
-
-- Data Resource Contributor
-
-- Data Collecting, Crawling, Scraping
-
-- Data Cleaning
-
-- Model Building, Tuning, Training
-
-- GitHub Organising
-
-- Hugging Face Organising
-
-- Social Media Organising
-
-
+## New to LLMs? No worries mate, we heard your voice
 ### Onboard LLMs
 - Speed run basic structures of LLMs 🙇 <br>
   - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net). <br>
@@ -75,7 +61,26 @@ Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joe
   - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai) <br>
   - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard) <br>
   - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
-  
+
+-----
+
+### Call for Contributors
+
+- Data Resource Contributor
+
+- Data Collecting, Crawling, Scraping
+
+- Data Cleaning
+
+- Model Building, Tuning, Training
+
+- GitHub Organising
+
+- Hugging Face Organising
+
+- Social Media Organising
+
+-----
 
 **Here are some suggestions for the main project page** 👋
 
