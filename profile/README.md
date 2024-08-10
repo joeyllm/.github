@@ -39,32 +39,7 @@ Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joe
 
 -----
 
-## New to LLMs? No worries mate, we heard your voice
-### Onboard LLMs
-- Speed run basic structures of LLMs 🙇 <br>
-  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net). <br>
-  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
-    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP) <br>
-    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
-- Build a LLM from scratch by your self 🧑‍💻 <br>
-  - Follow one of [tutorial videos](https://www.youtube.com/@AndrejKarpathy) produced by [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist).
-- Read some simple yet functional LLM repos 🤓 <br>
-  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch. <br>
-  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT). <br>
-  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT). <br>
-  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
-
-### Other Tools
-- Compare popular LLMs 💯
-  - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai) <br>
-  - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) <br>
-  - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai) <br>
-  - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard) <br>
-  - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
-
------
-
-### Call for contributors - we need your magic to make things happen
+## Call for contributors - we need your magic to make things happen
 
 - Data Source Contributor 🕵️‍♀️
   - Identify and provide access to Australia-related data sources.
@@ -88,7 +63,43 @@ Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joe
   -	Promote the project and its updates on social media platforms (e.g., Discord, Meetup).
   -	Engage with the community to increase project visibility and collaboration.
 
+Can't wait to join us? Have a chitchat with our lovely team members:
+- Mattew: Matthew.Altenburg@anu.edu.au
+- Mohan: MohanBalaji.Paranthaman@anu.edu.au
+- Roshan: RoshanRam.Deenadayalan@anu.edu.au
+
 -----
+
+## New to LLMs? No worries mate, we heard your voice
+### Onboard LLMs
+- Speed run basic structures of LLMs 🙇
+  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net).
+  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
+    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP)
+    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
+   
+- Build a LLM from scratch by yourself 🧑‍💻
+  - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
+    - [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=kG4f73h7uLp9_qnf)
+    - [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=NiH9GXkjqrlsFYSw)
+    - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=6TLrOibEbIY9iorF)
+
+- Read some simple yet functional LLM repos 🤓
+  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch.
+  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT).
+  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT).
+  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
+
+### Other Tools
+- Compare popular LLMs 💯
+  - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai)
+  - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) 
+  - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai)
+  - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+  - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+
+
+<!--
 
 **Here are some suggestions for the main project page** 👋
 
@@ -96,8 +107,6 @@ Next upcoming event (Mon, Aug 12, 6 PM AEST): [Model Architecture for Little Joe
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-
-<!--
 Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement.
 
 ## Getting Involved
