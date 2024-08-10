@@ -1,15 +1,22 @@
-<!-- img -->
+<!-- title pic -->
 <div align="center">
   <img src="https://github.com/southern-cross-ai/gallery/blob/master/bg/bg_github_title.png">
 </div>
-<!-- img -->
+<!-- title pic -->
 
 <!-- badges -->
 <div align="center">
-   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&logoColor=black&label=%E2%9C%AF%20Southern%20Cross%20AI&labelColor=purple"> &nbsp;
-   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow"> &nbsp;
-   <img alt="Discord" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord&labelColor=blue&color=gray"> &nbsp;
-   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Group&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red">
+  <a href="https://southerncross.ai" alt="Southern Cross AI"> 
+    <img alt="Southern Cross AI" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.southerncross.ai&up_message=Website&up_color=gray&style=flat&logoColor=black&label=%E2%9C%AF%20Southern%20Cross%20AI&labelColor=purple"/></a>
+  &nbsp;
+  <a href="https://huggingface.co/SouthernCrossAI" alt="Hugging Face">
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Community&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow"/></a>
+  &nbsp;
+  <a href="https://discord.gg/nvVkJShz6K" alt="Discord">
+   <img alt="Discord" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord&labelColor=blue&color=gray"/></a> 
+  &nbsp;
+  <a href="https://www.meetup.com/nlp-aiwizardsofoz/" alt="Meetup">
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Group&up_color=gray&style=flat&logo=meetup&label=Meetup&labelColor=red"/></a>
 </div>
 <!-- badges -->
 
