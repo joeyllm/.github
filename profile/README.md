@@ -77,6 +77,8 @@ Can't wait to join us? Have a chitchat with our lovely team members:
   - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
     - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP)
     - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
+  - Read these awesome articles from real human intelligence 📜
+    - [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) from [Nicky Pochinkov](https://nicky.pro/).
    
 - Build LLMs from scratch by yourself 🧑‍💻
   - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
