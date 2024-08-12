@@ -98,13 +98,14 @@ Can't wait to join us? Have a chitchat with our lovely team members:
 - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
 
 ### LLM Playground - Sometimes a good visualisation is all you need 🎮
-  - [WizMap](https://poloclub.github.io/wizmap/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising large-scale token embeddings.
-  - [Dodrio](https://poloclub.github.io/dodrio/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for attention head summarization and semantic and syntactic knowledge contexts from transformer models.
+- [WizMap](https://poloclub.github.io/wizmap/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising large-scale token embeddings.
+- [Dodrio](https://poloclub.github.io/dodrio/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for attention head summarization and semantic and syntactic knowledge contexts from transformer models.
 
 ### Misc of Topics and Tools 📦
-  - [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=g3HnvENUDFNW47NE) from [Welch Lab](https://www.youtube.com/@WelchLabsVideo).
-  - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
-  - [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
+- [ChatGPT: 30 Year History | How AI Learned to Talk](https://youtu.be/OFS90-FX6pg?si=5yf0OhqKnRaeO2js) from [Art of the Problem](https://www.youtube.com/@ArtOfTheProblem) on YouTube.
+- [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=g3HnvENUDFNW47NE) from [Welch Lab](https://www.youtube.com/@WelchLabsVideo) on YouTube.
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
+- [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
 
 <!--
 
