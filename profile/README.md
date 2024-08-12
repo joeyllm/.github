@@ -79,6 +79,7 @@ Can't wait to join us? Have a chitchat with our lovely team members:
     - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
   - Read these awesome articles from real human intelligence 📜
     - [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) from [Nicky Pochinkov](https://nicky.pro/).
+    - [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) from [Jason Brownlee](https://machinelearningmastery.com/about/).
    
 - Build LLMs from scratch by yourself 🧑‍💻
   - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
