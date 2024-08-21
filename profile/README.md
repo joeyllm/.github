@@ -36,7 +36,7 @@
 
 Join our exciting 12-week (Aug 5 - Oct 7) [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday at 🏫 [ANU School of Computing](https://comp.anu.edu.au) or hop on our online meetings on 👾 [Discord](https://discord.com/invite/nvVkJShz6K). 
 
-Next upcoming event (Mon, Aug 19, 6:00 - 7:30 PM AEST): [Training Environment for Little Joey 7b](https://www.meetup.com/nlp-aiwizardsofoz/events/301970759/)
+Next upcoming event (Mon, Aug 26, 6:00 - 7:30 PM AEST): [Little Joey 7b Training and Improvement Session](https://www.meetup.com/nlp-aiwizardsofoz/events/301968716/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 -----
 
