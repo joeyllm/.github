@@ -38,6 +38,10 @@ Join our exciting 12-week (Aug 5 - Oct 7) [Meetup events](https://www.meetup.com
 - Come [ANU School of Computing](https://comp.anu.edu.au) to meet friends in person 🏫
 - Hop on our online meetings on [Discord](https://discord.com/invite/nvVkJShz6K) 👾
 
+We’ll take a short break in the next following 2 weeks (2 Sep - 15 Sep). During the break, all Meetup activities will be suspended temporarily. However, if you have any queries or need assistance, feel free to ask in Discord channels or send a direct message to one of our team members. We’ll be happy to help you out! 
+
+Thank you for your understanding, and we look forward to resuming on 16th September! 
+
 Next upcoming event (Mon, Sep 16, 6:00 - 7:30 PM AEST): [Little Joey 7b Training and Improvement Session](https://www.meetup.com/nlp-aiwizardsofoz/events/302110004/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 -----
