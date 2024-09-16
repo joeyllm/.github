@@ -32,21 +32,61 @@
 
 ------
 
-## Wanna make friends and munch some pizza? Let's Meetup!
+## Wanna make friends and munch some snacks? Let's Meetup!
 
 Join our exciting 12-week (Aug 5 - Oct 7) [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday:
-- Come [ANU School of Computing](https://comp.anu.edu.au) to meet friends in person 🏫
-- Hop on our online meetings on [Discord](https://discord.com/invite/nvVkJShz6K) 👾
+- 🏫 Come to [ANU School of Computing](https://comp.anu.edu.au) to meet friends in person
+- 👾 Hop on our [Discord server](https://discord.com/invite/nvVkJShz6K) to have a chitchat
 
-We’ll take a short break in the next following 2 weeks (2 Sep - 15 Sep). During the break, all Meetup activities will be suspended temporarily. However, if you have any queries or need assistance, feel free to ask in Discord channels or send a direct message to one of our team members. We’ll be happy to help you out! 
+Next upcoming event: [Little Joey 7b Training and Improvement Session](https://www.meetup.com/nlp-aiwizardsofoz/events/302110004/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+- Time: Mon, Sep 16, 6:00 - 7:30 PM AEST
+- Location: [ANU School of Computing](https://comp.anu.edu.au) or [Discord](https://discord.com/invite/nvVkJShz6K)
 
-Thank you for your understanding, and we look forward to resuming on 16th September! 
+## New kid in town? No worries, we got you!
 
-Next upcoming event (Mon, Sep 16, 6:00 - 7:30 PM AEST): [Little Joey 7b Training and Improvement Session](https://www.meetup.com/nlp-aiwizardsofoz/events/302110004/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+### Onboard LLMs
+- 🏃‍♀️ Speed run some basic knowledge
+  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net).
+  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
+    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP)
+    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
+  - Read these awesome articles from real human intelligence 📜
+    - [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) from [Nicky Pochinkov](https://nicky.pro/).
+    - [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) from [Jason Brownlee](https://machinelearningmastery.com/about/).
+   
+- 🛠️ Build one from scratch
+  - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
+    - [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=kG4f73h7uLp9_qnf)
+    - [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=NiH9GXkjqrlsFYSw)
+    - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=6TLrOibEbIY9iorF)
 
------
+- 📜 Read some simple yet functional repos
+  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch.
+  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT).
+  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT).
+  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
 
-## Call for contributors - we need your magic to make things happen
+### LLM Battleground
+- ⚔️ Compare performance of the latest LLMs
+  - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai)
+  - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) 
+  - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai)
+  - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+  - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+
+### LLM Playground
+- 🎮 Good visualisation is all you need
+  - [WizMap](https://poloclub.github.io/wizmap/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising large-scale token embeddings.
+  - [Dodrio](https://poloclub.github.io/dodrio/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for attention head summarization and semantic and syntactic knowledge contexts from transformer models.
+
+### Misc
+- 📦 Interesting topics and other stuffs
+  - [ChatGPT: 30 Year History | How AI Learned to Talk](https://youtu.be/OFS90-FX6pg?si=5yf0OhqKnRaeO2js) from [Art of the Problem](https://www.youtube.com/@ArtOfTheProblem) on YouTube.
+  - [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=g3HnvENUDFNW47NE) from [Welch Lab](https://www.youtube.com/@WelchLabsVideo) on YouTube.
+  - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
+  - [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
+
+## Call for Contributors - We need your magic to make things happen
 
 - Data Source Contributor 🕵️‍♀️
   - Identify and provide access to Australia-related data sources.
@@ -70,52 +110,10 @@ Next upcoming event (Mon, Sep 16, 6:00 - 7:30 PM AEST): [Little Joey 7b Training
   -	Promote the project and its updates on social media platforms (e.g., Discord, Meetup).
   -	Engage with the community to increase project visibility and collaboration.
 
-Can't wait to join us? Have a chitchat with our lovely team members:
+Can't wait to join us? Send a message to our lovely team members:
 - Mattew: Matthew.Altenburg@anu.edu.au
 - Mohan: MohanBalaji.Paranthaman@anu.edu.au
 - Roshan: RoshanRam.Deenadayalan@anu.edu.au
-
------
-
-## New to LLMs? No worries mate, we heard your voice
-### Onboard LLMs - Hey you, what are ya waiting for 🫵
-- Speed run basic structures of LLMs 🏃‍♀️
-  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net).
-  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
-    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP)
-    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
-  - Read these awesome articles from real human intelligence 📜
-    - [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) from [Nicky Pochinkov](https://nicky.pro/).
-    - [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) from [Jason Brownlee](https://machinelearningmastery.com/about/).
-   
-- Build LLMs from scratch by yourself 🧑‍💻
-  - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
-    - [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=kG4f73h7uLp9_qnf)
-    - [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=NiH9GXkjqrlsFYSw)
-    - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=6TLrOibEbIY9iorF)
-
-- Read some simple yet functional LLM repos 🤓
-  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch.
-  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT).
-  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT).
-  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
-
-### LLM Battleground - Compare major LLMs ⚔️
-- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai)
-- [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) 
-- [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai)
-- [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
-- [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
-
-### LLM Playground - Sometimes a good visualisation is all you need 🎮
-- [WizMap](https://poloclub.github.io/wizmap/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising large-scale token embeddings.
-- [Dodrio](https://poloclub.github.io/dodrio/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for attention head summarization and semantic and syntactic knowledge contexts from transformer models.
-
-### Misc of Topics and Tools 📦
-- [ChatGPT: 30 Year History | How AI Learned to Talk](https://youtu.be/OFS90-FX6pg?si=5yf0OhqKnRaeO2js) from [Art of the Problem](https://www.youtube.com/@ArtOfTheProblem) on YouTube.
-- [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=g3HnvENUDFNW47NE) from [Welch Lab](https://www.youtube.com/@WelchLabsVideo) on YouTube.
-- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
-- [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
 
 <!--
 
