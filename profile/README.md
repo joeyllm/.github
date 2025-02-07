@@ -25,21 +25,28 @@
 <!-- bio -->
 <div align="center">
   ✨ Welcome to Southern Cross AI ✨ <br>
-  We aim at developing Australia's First Open-Source Large Language Model <br>
-  through collaborations across academia, research, government, and business sectors.
+  We aim at developing Open-Source Large Language Models to serve Australia <br>
+  through collaborations across universities, governments and business sectors
 </div>
 <!-- bio -->
 
 ------
 
-## Wanna make friends and munch some snacks? Let's Meetup!
+## Wanna make friends and munch snacks? Let's meet up!
 
-Join our exciting 12-week (Aug 5 - Oct 7) [Meetup events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday:
-- 🏫 Come to [ANU School of Computing](https://comp.anu.edu.au) to meet friends in person
-- 👾 Hop on our [Discord server](https://discord.com/invite/nvVkJShz6K) to have a chitchat
+Announcement (7 Feb): For all newcomers and our OG crews, we send you a big welcome for joining with us (again) in this journey. Below are the old schedules in 2024, to give you a litte bit taste of who we are and what actually is going on. If you have any ideas or questions, don't hesitate to connect with us via Discord or shoot an email to our team members. Wish you all will have a pleasant experience in the next following months! 
 
-Update (Oct 8): Unfortunately, our 12-week journey has come to an end. A heartfelt ❤️ thank you to all the community members who joined us over the past few months. It’s been an amazing experience sharing this time with you! Stay tuned to our Meetup page, and we’ll see you all next semester : )
+<details>
+  
+<summary> 2024 Schedule </summary>
+  
+Join our exciting 12-week (5 Aug - 7 Oct) [Meetup Events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday:
+- 🏫 Come to visit us at [ANU School of Computing](https://comp.anu.edu.au) in person
+- 💬 Hop on our [Discord Server](https://discord.com/invite/nvVkJShz6K) to have a chitchat
 
+Latest Update (8 Oct): Sadly, our 12-week journey has come to an end. A heartfelt ❤️ thank you to all our community members who joined us over the past few months. It’s been an amazing journey with lovely people like you! Stay tuned to our [Meetup Events](https://www.meetup.com/nlp-aiwizardsofoz/) and we’ll see you next semester.
+
+</details>
 
 ## New kid in town? No worries, we got you!
 
@@ -113,89 +120,3 @@ Can't wait to join us? Send a message to our lovely team members:
 - Mattew: Matthew.Altenburg@anu.edu.au
 - Mohan: MohanBalaji.Paranthaman@anu.edu.au
 - Roshan: RoshanRam.Deenadayalan@anu.edu.au
-
-<!--
-
-**Here are some suggestions for the main project page** 👋
-
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-Welcome to the Southern Cross AI project's repository, aimed at developing Australia's pioneering and sovereign open-source LLM through collaborative efforts across academia, research, government, and business sectors.This repository hosts the website for documenting and facilitating the collaborative development of Australia's first LLM, serving as a central hub for information, updates, and community engagement.
-
-## Getting Involved
-
-**Development:** Enhance the site's functionality and user experience.
-
-**Content:** Write documentation, tutorials, and blog posts about the project's progress.
-
-**Feedback:** Offer suggestions and feedback on the website to ensure it effectively serves the project's needs and the community's expectations.
-
-## How to Contribute and Submit a Pull Request
-
-Follow these steps to contribute to the project and submit your changes through a pull request.
-
-## Public Preview Branch URL
-
-https://website-jxwq8hwf0-southern-cross-ai.vercel.app/
-
-### Step 1: Set Up for Development
-
-1. **Fork and Clone the Repository**: Clone the project to your local machine to get started.
-   ```
-   git clone https://github.com/Southern-Cross-AI/WebSite.git
-   ```
-2. **Install Dependencies**: Navigate to the project directory and install its dependencies.
-
-   ```
-   npm install
-   ```
-
-   Alternatively, use `yarn` or `pnpm` if you prefer.
-
-3. **Start the Development Server**: Run the development server to see your changes in real time.
-   ```
-   npm run dev
-   ```
-   You can also use `yarn dev`, `pnpm dev`, or `bun dev` based on your setup.
-
-### Step 2: Make Your Contribution
-
-1. **Create a New Branch**: Create a new branch for your changes.
-   ```
-   git checkout -b your-branch-name
-   ```
-2. **Make Your Changes**: Implement the changes or improvements you're contributing.
-
-3. **Commit Your Changes**: Commit your changes with a descriptive message.
-   ```
-   git add .
-   git commit -m "Your descriptive commit message"
-   ```
-
-### Step 3: Submit Your Pull Request
-
-1. **Push to Your Fork**: If it's your first contribution, make sure to fork the repository. Then, push your branch to your fork.
-   ```
-   git push origin your-branch-name
-   ```
-2. **Open a Pull Request (PR)**: Navigate to the original repository on GitHub. You should see a prompt to open a pull request with your changes. If not, go to the "Pull requests" tab, click "New pull request", then "compare across forks", and select your branch.
-
-3. **Describe Your PR**: Provide a concise title and detailed description for your pull request. Explain the changes you've made and their impact.
-
-4. **Submit the PR**: Submit your pull request. Await feedback or approval from the project maintainers.
-
----
-
-**Important Links:**
-
-- [Licence](LICENCE.md)
-- [About Us](about.md)
-- [Vision, Mission and Principles](vision-mission-principles.md)
-- [Feedback or Suggestions](feedback.md)
-- [Privacy Policy](privacy.md)
-- [Terms of Use](terms.md)
-
--->
-
