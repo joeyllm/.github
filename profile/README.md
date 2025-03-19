@@ -48,14 +48,9 @@ Join our 12-week Meetup Events held every Monday from 17/02/2025 to 12/05/2025:
 
 | Date       | Event Details                                    | Meetup Link                                                                  |
 | ---------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
-| 24/03/2025 | Mid-semester check-in and networking session     | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/24-03-2025) |
-| 31/03/2025 | No meetup (Teaching break)                       | —                                                                            |
-| 07/04/2025 | Guest speaker session                            | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/07-04-2025) |
-| 14/04/2025 | Workshop: Building AI Models                     | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/14-04-2025) |
-| 21/04/2025 | No meetup (Easter Monday public holiday)         | —                                                                            |
-| 28/04/2025 | Project collaboration session                    | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/28-04-2025) |
-| 05/05/2025 | AI ethics discussion                             | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/05-05-2025) |
-| 12/05/2025 | End-of-semester celebration and project showcase | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/12-05-2025) |
+| 07/04/2025 | Guest speaker session                            | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449477/?eventOrigin=group_upcoming_events) |
+| 05/05/2025 | AI ethics discussion                             | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449489/?eventOrigin=group_upcoming_events) |
+| 16/06/2025 | End-of-semester celebration and project showcase | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449523/?eventOrigin=group_upcoming_events)  |
 
 ### Looking Ahead:
 
