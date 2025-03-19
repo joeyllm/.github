@@ -32,24 +32,19 @@
 
 ------
 
-## Wanna make friends and munch snacks? Let's meet up!
-
-Announcement (7 Feb): For all newcomers and our OG crews, we send you a big welcome for joining with us (again) in this journey. Below are the old schedules in 2024, to give you a litte bit taste of who we are and what actually is going on. If you have any ideas or questions, don't hesitate to connect with us via Discord or shoot an email to our team members. Wish you all will have a pleasant experience in the next following months! 
-
-<details>
-  
-**Join Us for Snacks and Socialising!**
+##Join Us for Snacks and Socialising!
 
 **Announcement (19/03/2025):** A warm welcome to all newcomers and returning members! We're excited to embark on another journey together. Below is our updated schedule for Semester 1, 2025. If you have any ideas or questions, connect with us via [Discord](https://discord.gg/hcAUDRMNry) or email our team members. We hope you have a pleasant experience in the coming months!
 
-**2025 Schedule**
+## 2025 Schedule
+<details>
 
 Join our 12-week Meetup Events held every Monday from 17/02/2025 to 12/05/2025:
 
 - **In-Person:** Visit us at the ANU School of Computing
 - **Online:** Join our [Discord Server](https://discord.gg/hcAUDRMNry) for chats
 
-**Upcoming Events:**
+### Upcoming Events:
 
 | Date       | Event Details                                    | Meetup Link                                                                  |
 | ---------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -62,7 +57,7 @@ Join our 12-week Meetup Events held every Monday from 17/02/2025 to 12/05/2025:
 | 05/05/2025 | AI ethics discussion                             | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/05-05-2025) |
 | 12/05/2025 | End-of-semester celebration and project showcase | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/12-05-2025) |
 
-**Looking Ahead:**
+### Looking Ahead:
 
 It's only March, but the future looks bright! We have an incredible lineup of events, guest speakers, and workshops ahead. This is your chance to connect, learn, and grow with a vibrant community of like-minded people. Whether you're attending in person or joining online, there's a place for you here. Let's make Semester 1, 2025 the best one yet!
 
