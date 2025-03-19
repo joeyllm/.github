@@ -38,13 +38,33 @@ Announcement (7 Feb): For all newcomers and our OG crews, we send you a big welc
 
 <details>
   
-<summary> 2024 Schedule </summary>
-  
-Join our exciting 12-week (5 Aug - 7 Oct) [Meetup Events](https://www.meetup.com/nlp-aiwizardsofoz/) held every Monday:
-- 🏫 Come to visit us at [ANU School of Computing](https://comp.anu.edu.au) in person
-- 💬 Hop on our [Discord Server](https://discord.com/invite/nvVkJShz6K) to have a chitchat
+**Join Us for Snacks and Socialising!**
 
-Latest Update (8 Oct): Sadly, our 12-week journey has come to an end. A heartfelt ❤️ thank you to all our community members who joined us over the past few months. It’s been an amazing journey with lovely people like you! Stay tuned to our [Meetup Events](https://www.meetup.com/nlp-aiwizardsofoz/) and we’ll see you next semester.
+**Announcement (19/03/2025):** A warm welcome to all newcomers and returning members! We're excited to embark on another journey together. Below is our updated schedule for Semester 1, 2025. If you have any ideas or questions, connect with us via [Discord](https://discord.gg/hcAUDRMNry) or email our team members. We hope you have a pleasant experience in the coming months!
+
+**2025 Schedule**
+
+Join our 12-week Meetup Events held every Monday from 17/02/2025 to 12/05/2025:
+
+- **In-Person:** Visit us at the ANU School of Computing
+- **Online:** Join our [Discord Server](https://discord.gg/hcAUDRMNry) for chats
+
+**Upcoming Events:**
+
+| Date       | Event Details                                    | Meetup Link                                                                  |
+| ---------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 24/03/2025 | Mid-semester check-in and networking session     | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/24-03-2025) |
+| 31/03/2025 | No meetup (Teaching break)                       | —                                                                            |
+| 07/04/2025 | Guest speaker session                            | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/07-04-2025) |
+| 14/04/2025 | Workshop: Building AI Models                     | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/14-04-2025) |
+| 21/04/2025 | No meetup (Easter Monday public holiday)         | —                                                                            |
+| 28/04/2025 | Project collaboration session                    | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/28-04-2025) |
+| 05/05/2025 | AI ethics discussion                             | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/05-05-2025) |
+| 12/05/2025 | End-of-semester celebration and project showcase | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/12-05-2025) |
+
+**Looking Ahead:**
+
+It's only March, but the future looks bright! We have an incredible lineup of events, guest speakers, and workshops ahead. This is your chance to connect, learn, and grow with a vibrant community of like-minded people. Whether you're attending in person or joining online, there's a place for you here. Let's make Semester 1, 2025 the best one yet!
 
 </details>
 
