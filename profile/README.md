@@ -34,7 +34,7 @@
 
 ## Join Us for Snacks and Socialising!
 
-**Announcement (19/03/2025):** A warm welcome to all newcomers and returning members! We're excited to embark on another journey together. Below is our updated schedule for Semester 1, 2025. If you have any ideas or questions, connect with us via [Discord](https://discord.gg/hcAUDRMNry) or email our team members. We hope you have a pleasant experience in the coming months!
+**Announcement (19/03/2025):** A warm welcome to all newcomers and returning members! We're excited to embark on another journey together. Below is our updated schedule for Semester 1, 2025. If you have any ideas or questions, connect with us via [Discord](https://discord.gg/CAFjjVeP) or email our team members. We hope you have a pleasant experience in the coming months!
 
 ## 2025 Schedule
 <details>
@@ -130,3 +130,4 @@ Can't wait to join us? Send a message to our lovely team members:
 - Mattew: Matthew.Altenburg@anu.edu.au
 - Mohan: MohanBalaji.Paranthaman@anu.edu.au
 - Roshan: RoshanRam.Deenadayalan@anu.edu.au
+- Dale: hello@dalerogers.com.au
