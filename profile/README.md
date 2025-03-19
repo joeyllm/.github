@@ -58,8 +58,10 @@ It's only March, but the future looks bright! We have an incredible lineup of ev
 
 </details>
 
-## New kid in town? No worries, we got you!
-
+## New kid in town? No worries, we got you! **
+**Learning resources**
+<details>
+  
 ### Onboard LLMs
 - 🏃‍♀️ Speed run some basic knowledge
   - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net).
@@ -102,7 +104,10 @@ It's only March, but the future looks bright! We have an incredible lineup of ev
   - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
   - [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
 
+</details>
+
 ## Call for Contributors - We need your magic to make things happen
+<details>
 
 - Data Source Contributor 🕵️‍♀️
   - Identify and provide access to Australia-related data sources.
@@ -125,6 +130,8 @@ It's only March, but the future looks bright! We have an incredible lineup of ev
 - Social Media Organising 👩‍💼
   -	Promote the project and its updates on social media platforms (e.g., Discord, Meetup).
   -	Engage with the community to increase project visibility and collaboration.
+ 
+</details>
 
 Can't wait to join us? Send a message to our lovely team members:
 - Mattew: Matthew.Altenburg@anu.edu.au
