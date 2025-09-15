@@ -86,9 +86,10 @@ You don’t need to be an expert — just willing to get in and learn.
 
 </details>
 
-Can't wait to join us? Send a message to our lovely team members:
+Can't wait to join us? Send a message to our team members:
 - Mattew Altenburg: Matthew.Altenburg@anu.edu.au
-- Dale: hello@dalerogers.com.au
+- Dale Rogers: hello@dalerogers.com.au
+- Andy Smith: andy.smith@anu.edu.au
 
   
 </details>
