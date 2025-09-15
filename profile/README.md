@@ -1,12 +1,5 @@
 <!-- title pic -->
 <div align="center">
-  <img src="https://github.com/southern-cross-ai/.github/blob/main/profile/pics/title_pic.png"
-       style="width: 300px; height: auto;">
-</div>
-<!-- title pic -->
-
-<!-- title pic -->
-<div align="center">
   <img src="https://github.com/joeyllm/.github/blob/main/profile/pics/title_pic.png"
        alt="JoeyLLM"
        style="width: 300px; max-width: 100%; height: auto;">
