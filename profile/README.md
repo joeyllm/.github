@@ -93,6 +93,8 @@ Can't wait to join us? Send a message to our lovely team members:
   
 </details>
 
+------
+
 ## New kid in town? No worries, we got you! **
 **Learning resources**
 <details>
