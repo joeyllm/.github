@@ -1,7 +1,7 @@
 <!-- title pic -->
 <div align="center">
   <img src="https://github.com/southern-cross-ai/.github/blob/main/profile/pics/title_pic.png"
-       style="width: 400px; height: auto;">
+       style="width: 300px; height: auto;">
 </div>
 <!-- title pic -->
 
