@@ -51,29 +51,12 @@
 
 ------
 
-## Join Us for Snacks and Socialising!
+## Join Us for Socialising!
 
-**Announcement (19/03/2025):** A warm welcome to all newcomers and returning members! We're excited to embark on another journey together. Below is our updated schedule for Semester 1, 2025. If you have any ideas or questions, connect with us via [Discord](https://discord.gg/CAFjjVeP) or email our team members. We hope you have a pleasant experience in the coming months!
+Upcoming meetups and gatherings will be announced soon.  
+Check our [Discord](https://discord.gg/hcAUDRMNry), [Facebook](https://www.facebook.com/), and [Meetup](https://www.meetup.com/nlp-aiwizardsofoz/) pages for the latest updates.  
 
-## 2025 Schedule
-<details>
-
-Join our 12-week Meetup Events held every Monday from 17/02/2025 to 12/05/2025:
-
-- **In-Person:** Visit us at the ANU School of Computing
-- **Online:** Join our [Discord Server](https://discord.gg/hcAUDRMNry) for chats
-
-### Upcoming Events:
-
-| Date       | Event Details                                    | Meetup Link                                                                  |
-| ---------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
-| 07/04/2025 | Guest speaker session                            | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449477/?eventOrigin=group_upcoming_events) |
-| 05/05/2025 | AI ethics discussion                             | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449489/?eventOrigin=group_upcoming_events) |
-| 16/06/2025 | End-of-semester celebration and project showcase | [Join on Meetup](https://www.meetup.com/nlp-aiwizardsofoz/events/305449523/?eventOrigin=group_upcoming_events)  |
-
-### Looking Ahead:
-
-It's only March, but the future looks bright! We have an incredible lineup of events, guest speakers, and workshops ahead. This is your chance to connect, learn, and grow with a vibrant community of like-minded people. Whether you're attending in person or joining online, there's a place for you here. Let's make Semester 1, 2025 the best one yet!
+------
 
 </details>
 
