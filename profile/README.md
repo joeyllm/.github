@@ -136,7 +136,5 @@ It's only March, but the future looks bright! We have an incredible lineup of ev
 </details>
 
 Can't wait to join us? Send a message to our lovely team members:
-- Mattew: Matthew.Altenburg@anu.edu.au
-- Mohan: MohanBalaji.Paranthaman@anu.edu.au
-- Roshan: RoshanRam.Deenadayalan@anu.edu.au
+- Mattew Altenburg: Matthew.Altenburg@anu.edu.au
 - Dale: hello@dalerogers.com.au
