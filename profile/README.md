@@ -5,7 +5,7 @@
        style="width: 300px; max-width: 100%; height: auto;">
 </div>
 <!-- title pic -->
-
+https://github.com/joeyllm/.github/blob/main/profile/README.md
 <!-- badges -->
 <div align="center">
   <!-- Current site -->
@@ -51,6 +51,46 @@ Check our [Discord](https://discord.gg/hcAUDRMNry), [Facebook](https://www.faceb
 
 ------
 
+## Call for Contributors – Help Shape Joey LLM 🦘
+<details>
+
+We’re rebranding from Southern Cross AI to **Joey LLM**.  
+This is a fresh start with clearer focus, real resources (GPUs + data pipelines), and stronger foundations.  
+You don’t need to be an expert — just willing to get in and learn.  
+
+### Technical Maintainers
+- **System Maintainer 🖥️**  
+  - Oversee overall architecture and infrastructure.  
+  - Help set up training environments, servers, and deployment workflows.  
+
+- **Model Maintainer 🤖**  
+  - Train, fine-tune, and run inference with Joey LLM.  
+  - Work with PyTorch, distributed training, and optimisation.  
+
+- **Web Interface Maintainer 🌐**  
+  - Build and maintain the web app, APIs, and demos.  
+  - Ensure clean, user-friendly access to Joey LLM.  
+
+- **Data Maintainer 📊**  
+  - Collect, clean, and filter Australian-relevant datasets.  
+  - Develop and maintain data pipelines for training and evaluation.  
+
+### Support Maintainers
+- **Docs Maintainer 📖**  
+  - Create and maintain guides, tutorials, and onboarding material.  
+  - Help new contributors ramp up quickly.  
+
+- **Community Maintainer 🎤**  
+  - Manage meetups, Discord, and Hugging Face presence.  
+  - Keep the community engaged and updated.  
+
+</details>
+
+Can't wait to join us? Send a message to our lovely team members:
+- Mattew Altenburg: Matthew.Altenburg@anu.edu.au
+- Dale: hello@dalerogers.com.au
+
+  
 </details>
 
 ## New kid in town? No worries, we got you! **
@@ -100,44 +140,3 @@ Check our [Discord](https://discord.gg/hcAUDRMNry), [Facebook](https://www.faceb
   - [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
 
 </details>
-
-## Call for Contributors – Help Shape Joey LLM 🦘
-<details>
-
-We’re rebranding from Southern Cross AI to **Joey LLM**.  
-This is a fresh start with clearer focus, real resources (GPUs + data pipelines), and stronger foundations.  
-You don’t need to be an expert — just willing to get in and learn.  
-
-### Technical Maintainers
-- **System Maintainer 🖥️**  
-  - Oversee overall architecture and infrastructure.  
-  - Help set up training environments, servers, and deployment workflows.  
-
-- **Model Maintainer 🤖**  
-  - Train, fine-tune, and run inference with Joey LLM.  
-  - Work with PyTorch, distributed training, and optimisation.  
-
-- **Web Interface Maintainer 🌐**  
-  - Build and maintain the web app, APIs, and demos.  
-  - Ensure clean, user-friendly access to Joey LLM.  
-
-- **Data Maintainer 📊**  
-  - Collect, clean, and filter Australian-relevant datasets.  
-  - Develop and maintain data pipelines for training and evaluation.  
-
-### Support Maintainers
-- **Docs Maintainer 📖**  
-  - Create and maintain guides, tutorials, and onboarding material.  
-  - Help new contributors ramp up quickly.  
-
-- **Community Maintainer 🎤**  
-  - Manage meetups, Discord, and Hugging Face presence.  
-  - Keep the community engaged and updated.  
-
-</details>
-
-
-
-Can't wait to join us? Send a message to our lovely team members:
-- Mattew Altenburg: Matthew.Altenburg@anu.edu.au
-- Dale: hello@dalerogers.com.au
