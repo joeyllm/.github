@@ -6,7 +6,7 @@
 
 <!-- badges -->
 <div align="center">
-  <a href="https://southerncross.ai" alt="Southern Cross AI"> 
+  <a href="https://southerncross.ai" alt="JoeyLLM"> 
     <img alt="Southern Cross AI" src="https://img.shields.io/website?url=https%3A%2F%2Fsoutherncross.ai&up_message=Website&up_color=gray&style=flat&label=%E2%9C%B8%20Southern%20Cross%20AI&labelColor=purple&link=https%3A%2F%2Fsoutherncross.ai&color=gray"/></a>
   &nbsp;
   <a href="https://huggingface.co/SouthernCrossAI" alt="Hugging Face">
