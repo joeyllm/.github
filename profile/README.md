@@ -24,7 +24,7 @@
 
 <!-- bio -->
 <div align="center">
-  ✨ Welcome to Southern Cross AI ✨ <br>
+  ✨ Welcome to JoeyLLM formly Southern Cross AI ✨ <br>
   We aim at developing Open-Source Large Language Models to serve Australia <br>
   through collaborations across universities, governments and business sectors
 </div>
