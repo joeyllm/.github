@@ -101,32 +101,42 @@ Check our [Discord](https://discord.gg/hcAUDRMNry), [Facebook](https://www.faceb
 
 </details>
 
-## Call for Contributors - We need your magic to make things happen
+## Call for Contributors – Help Shape Joey LLM 🦘
 <details>
 
-- Data Source Contributor 🕵️‍♀️
-  - Identify and provide access to Australia-related data sources.
-  - Collaborate with other contributors to ensure data quality and relevance.
-- Data Collecting, Crawling and Scraping 👩‍🌾
-  - Develop scripts and tools to collect data from various sources.
-  - (Optional) Have experience with web scraping tools (e.g., BeautifulSoup, Scrapy).
-- Data Cleaning 👩‍⚕️
-  - Clean and preprocess datasets to ensure they are ready for analysis and modeling.
-  - (Optional) Have experience with data manipulation libraries (e.g., Pandas, NumPy).
-- Model Building, Training and Tuning 👩‍💻
-  - Develop and train LLMs to solve with our datasets.
-  - Have experience with machine learning frameworks (e.g., TensorFlow, PyTorch).
-- GitHub Organising 👩‍🔧
-  -	Manage the GitHub repository by organizing files, documentation, and issues.
-  -	(Optional) Have proficiency in using Git and GitHub.
-- Hugging Face Organising 👩‍🏭
-  -	Manage and organize model versions and datasets.
-  -	Ensure proper documentation and metadata for each model and dataset.
-- Social Media Organising 👩‍💼
-  -	Promote the project and its updates on social media platforms (e.g., Discord, Meetup).
-  -	Engage with the community to increase project visibility and collaboration.
- 
+We’re rebranding from Southern Cross AI to **Joey LLM**.  
+This is a fresh start with clearer focus, real resources (GPUs + data pipelines), and stronger foundations.  
+You don’t need to be an expert — just willing to get in and learn.  
+
+### Technical Maintainers
+- **System Maintainer 🖥️**  
+  - Oversee overall architecture and infrastructure.  
+  - Help set up training environments, servers, and deployment workflows.  
+
+- **Model Maintainer 🤖**  
+  - Train, fine-tune, and run inference with Joey LLM.  
+  - Work with PyTorch, distributed training, and optimisation.  
+
+- **Web Interface Maintainer 🌐**  
+  - Build and maintain the web app, APIs, and demos.  
+  - Ensure clean, user-friendly access to Joey LLM.  
+
+- **Data Maintainer 📊**  
+  - Collect, clean, and filter Australian-relevant datasets.  
+  - Develop and maintain data pipelines for training and evaluation.  
+
+### Support Maintainers
+- **Docs Maintainer 📖**  
+  - Create and maintain guides, tutorials, and onboarding material.  
+  - Help new contributors ramp up quickly.  
+
+- **Community Maintainer 🎤**  
+  - Manage meetups, Discord, and Hugging Face presence.  
+  - Keep the community engaged and updated.  
+
 </details>
+
+
 
 Can't wait to join us? Send a message to our lovely team members:
 - Mattew Altenburg: Matthew.Altenburg@anu.edu.au
