@@ -5,20 +5,37 @@
 </div>
 <!-- title pic -->
 
+<!-- title pic -->
+<div align="center">
+  <img src="https://github.com/joeyllm/.github/blob/main/profile/pics/title_pic.png"
+       alt="JoeyLLM"
+       style="width: 300px; max-width: 100%; height: auto;">
+</div>
+<!-- title pic -->
 
 <!-- badges -->
 <div align="center">
-  <a href="https://southerncross.ai" alt="JoeyLLM"> 
-    <img alt="Southern Cross AI" src="https://img.shields.io/website?url=https%3A%2F%2Fsoutherncross.ai&up_message=Website&up_color=gray&style=flat&label=%E2%9C%B8%20Southern%20Cross%20AI&labelColor=purple&link=https%3A%2F%2Fsoutherncross.ai&color=gray"/></a>
+  <!-- Current site -->
+  <a href="https://southerncross.ai" alt="Southern Cross AI">
+    <img alt="Southern Cross AI" src="https://img.shields.io/website?url=https%3A%2F%2Fsoutherncross.ai&up_message=Website&up_color=gray&style=flat&label=%E2%9C%B8%20Southern%20Cross%20AI&labelColor=purple&color=gray"/>
+  </a>
+  &nbsp;
+  <!-- Coming soon -->
+  <a href="https://joeyllm.ai" alt="JoeyLLM.ai (coming soon)">
+    <img alt="JoeyLLM.ai (coming soon)" src="https://img.shields.io/badge/joeyllm.ai-coming%20soon-orange?style=flat&label=JoeyLLM.ai&labelColor=black&color=orange"/>
+  </a>
   &nbsp;
   <a href="https://huggingface.co/SouthernCrossAI" alt="Hugging Face">
-   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Dataset&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow&color=gray"/></a>
+    <img alt="Hugging Face" src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2FSouthernCrossAI&up_message=Models%20%26%20Datasets&up_color=gray&style=flat&logo=huggingface&logoColor=white&label=Hugging%20Face&labelColor=yellow&color=gray"/>
+  </a>
   &nbsp;
   <a href="https://discord.gg/nvVkJShz6K" alt="Discord Server">
-   <img alt="Discord Server" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord%20Server&labelColor=blue&color=gray"/></a> 
+    <img alt="Discord Server" src="https://img.shields.io/discord/1211168857746833408?style=flat&logo=Discord&logoColor=white&label=Discord%20Server&labelColor=blue&color=gray"/>
+  </a>
   &nbsp;
   <a href="https://www.meetup.com/nlp-aiwizardsofoz/" alt="Meetup Group">
-   <img alt="Meetup Group" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlpaiwizardsofoz%2F&up_message=Event&up_color=gray&style=flat&logo=meetup&label=Meetup%20Group&labelColor=red&color=gray"/></a>
+    <img alt="Meetup Group" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meetup.com%2Fnlp-aiwizardsofoz%2F&up_message=Events&up_color=gray&style=flat&logo=meetup&label=Meetup%20Group&labelColor=red&color=gray"/>
+  </a>
 </div>
 <!-- badges -->
 
