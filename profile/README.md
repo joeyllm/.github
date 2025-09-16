@@ -5,15 +5,13 @@
        style="width: 300px; max-width: 100%; height: auto;">
 </div>
 <!-- title pic -->
-https://github.com/joeyllm/.github/blob/main/profile/README.md
+
 <!-- badges -->
 <div align="center">
-  <!-- Current site -->
   <a href="https://southerncross.ai" alt="Southern Cross AI">
     <img alt="Southern Cross AI" src="https://img.shields.io/website?url=https%3A%2F%2Fsoutherncross.ai&up_message=Website&up_color=gray&style=flat&label=%E2%9C%B8%20Southern%20Cross%20AI&labelColor=purple&color=gray"/>
   </a>
   &nbsp;
-  <!-- Coming soon -->
   <a href="https://joeyllm.ai" alt="JoeyLLM.ai (coming soon)">
     <img alt="JoeyLLM.ai (coming soon)" src="https://img.shields.io/badge/joeyllm.ai-coming%20soon-orange?style=flat&label=JoeyLLM.ai&labelColor=black&color=orange"/>
   </a>
@@ -37,109 +35,100 @@ https://github.com/joeyllm/.github/blob/main/profile/README.md
 <!-- bio -->
 <div align="center">
   ✨ Welcome to JoeyLLM (formerly Southern Cross AI) ✨ <br>
-  We develop open-source large language models to serve Australia <br>
-  through collaborations across universities, governments, and business.
+  Australians developing open-source large language models for Australia. 
 </div>
 <!-- bio -->
 
 ------
 
-## Join Us for Socialising!
+## 🦘 About JoeyLLM
+We’re a group of builders, researchers, and tinkerers working on **open-source large language models**.  
+No government spin, no corporate gatekeeping, no uni red tape. Just people who want to get hands-on, share knowledge, and make something real.  
 
-Upcoming meetups and gatherings will be announced soon.  
-Check our [Discord](https://discord.gg/hcAUDRMNry), [Facebook](https://www.facebook.com/), and [Meetup](https://www.meetup.com/nlp-aiwizardsofoz/) pages for the latest updates.  
+Everyone’s welcome — whether you’re brand new or already deep in the field. You can:  
+- Jump in with code, data, or documentation  
+- Help out with testing and feedback  
+- Join the chat, throw around ideas, or learn as you go  
+
+This is a community for people who want to make AI without the nonsense.
 
 ------
 
-## Call for Contributors – Help Shape Joey LLM 🦘
-<details>
+## 📂 Repository Naming Convention
+
+To keep things organised, every repository follows:
+
+### 🗂 Categories
+- 🧠 **Models** → `models-` for language models  
+- 📊 **Data** → `data-` for datasets and pipelines  
+- 📚 **Docs** → `docs-` for documentation, papers, admin  
+- 🌐 **Web** → `web-` for web apps and portals  
+- 🚀 **Projects** → `projects-` for new ideas and prototypes  
+- 🛠 **Infra** → `infra-` for infrastructure and tooling  
+` 
+------
+
+## 🦘 Call for Contributors
 
 We’re rebranding from Southern Cross AI to **Joey LLM**.  
 This is a fresh start with clearer focus, real resources (GPUs + data pipelines), and stronger foundations.  
-You don’t need to be an expert — just willing to get in and learn.  
+You don’t need to be an expert — just willing to learn and contribute.  
 
 ### Technical Maintainers
-- **System Maintainer 🖥️**  
-  - Oversee overall architecture and infrastructure.  
-  - Help set up training environments, servers, and deployment workflows.  
-
-- **Model Maintainer 🤖**  
-  - Train, fine-tune, and run inference with Joey LLM.  
-  - Work with PyTorch, distributed training, and optimisation.  
-
-- **Web Interface Maintainer 🌐**  
-  - Build and maintain the web app, APIs, and demos.  
-  - Ensure clean, user-friendly access to Joey LLM.  
-
-- **Data Maintainer 📊**  
-  - Collect, clean, and filter Australian-relevant datasets.  
-  - Develop and maintain data pipelines for training and evaluation.  
+- 🖥 **System Maintainer** → infra, servers, deployments  
+- 🤖 **Model Maintainer** → training, fine-tuning, inference  
+- 🌐 **Web Maintainer** → apps, APIs, demos  
+- 📊 **Data Maintainer** → collection, cleaning, pipelines  
 
 ### Support Maintainers
-- **Docs Maintainer 📖**  
-  - Create and maintain guides, tutorials, and onboarding material.  
-  - Help new contributors ramp up quickly.  
+- 📖 **Docs Maintainer** → guides, tutorials, onboarding  
+- 🎤 **Community Maintainer** → meetups, Discord, Hugging Face  
 
-- **Community Maintainer 🎤**  
-  - Manage meetups, Discord, and Hugging Face presence.  
-  - Keep the community engaged and updated.  
-
-</details>
-
-Can't wait to join us? Send a message to our team members:
-- Mattew Altenburg: Matthew.Altenburg@anu.edu.au
-- Dale Rogers: hello@dalerogers.com.au
-- Andy Smith: andy.smith@anu.edu.au
-
-  
-</details>
+📧 Contact:  
+- Matthew Altenburg: Matthew.Altenburg@anu.edu.au  
+- Dale Rogers: hello@dalerogers.com.au  
+- Andy Smith: andy.smith@anu.edu.au  
 
 ------
 
-## New kid in town? No worries, we got you! **
-**Learning resources**
+## 🤝 Community & Meetups
+
+Upcoming gatherings will be announced soon.  
+Check:  
+- [Discord](https://discord.gg/hcAUDRMNry)  
+- [Meetup](https://www.meetup.com/nlp-aiwizardsofoz/)  
+- [Facebook](https://www.facebook.com/)  
+
+------
+
+## 📚 Learning Resources
+
 <details>
-  
-### Onboard LLMs
-- 🏃‍♀️ Speed run some basic knowledge
-  - Play and visualise LLMs with [LLM Visualization](https://bbycroft.net/llm) created by [Brendan Bycroft](https://bbycroft.net).
-  - Enjoy transformer videos made by [3Blue1Brown](https://www.youtube.com/@3blue1brown):
-    - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=po4M6fKWN9FfGRiP)
-    - [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=K7l4Ur39Shrpjc0u)
-  - Read these awesome articles from real human intelligence 📜
-    - [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) from [Nicky Pochinkov](https://nicky.pro/).
-    - [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) from [Jason Brownlee](https://machinelearningmastery.com/about/).
-   
-- 🛠️ Build one from scratch
-  - Follow one of tutorial videos from [Andrej Karpathy](https://karpathy.ai) (former OpenAI research scientist):
-    - [Let's reproduce GPT-2 (124M)](https://youtu.be/l8pRSuU81PU?si=kG4f73h7uLp9_qnf)
-    - [Let's build the GPT Tokenizer](https://youtu.be/zduSFxRajkE?si=NiH9GXkjqrlsFYSw)
-    - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=6TLrOibEbIY9iorF)
+<summary>Expand to Explore</summary>
 
-- 📜 Read some simple yet functional repos
-  - [minGPT](https://github.com/karpathy/minGPT): A small, clean, interpretable and educational GPT re-implementated in PyTorch.
-  - [nanoGPT](https://github.com/karpathy/nanoGPT): The simplest, fastest repository for training/finetuning medium-sized GPTs. A rewrite of [minGPT](https://github.com/karpathy/minGPT).
-  - [build-nanogpt](https://github.com/karpathy/build-nanogpt): Walk through step-by-step and clean GitHub commits to slowly build a [nanoGPT](https://github.com/karpathy/nanoGPT).
-  - [nano-llama31](https://github.com/karpathy/nano-llama31): A minimal, dependency-free implementation of the Llama 3.1 architecture.
+### 🔎 Quick Intros
+- [LLM Visualization](https://bbycroft.net/llm) by Brendan Bycroft  
+- 3Blue1Brown: [What is a GPT?](https://youtu.be/wjZofJX0v4M) • [Attention Explained](https://youtu.be/eMlx5fFNoYc)  
+- Articles: [Embedding Spaces](https://www.lesswrong.com/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) • [Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)  
 
-### LLM Battleground
-- ⚔️ Compare performance of the latest LLMs
-  - [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) from [vellum](https://www.vellum.ai)
-  - [Independent analysis of AI models and API providers](https://artificialanalysis.ai) from [Artifical Analysis](https://artificialanalysis.ai) 
-  - [The LLM Index](https://sapling.ai/llm/index) from [Sapling](https://sapling.ai)
-  - [open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
-  - [The Big Benchmarks Collection](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a) from [Open LLM Leaderboard](https://huggingface.co/open-llm-leaderboard)
+### 🛠️ Build From Scratch
+- Karpathy tutorials: [GPT-2 Reproduction](https://youtu.be/l8pRSuU81PU) • [Tokenizer](https://youtu.be/zduSFxRajkE) • [GPT From Scratch](https://youtu.be/kCc8FmEb1nY)  
+- Repos: [minGPT](https://github.com/karpathy/minGPT) • [nanoGPT](https://github.com/karpathy/nanoGPT) • [build-nanogpt](https://github.com/karpathy/build-nanogpt) • [nano-llama31](https://github.com/karpathy/nano-llama31)  
 
-### LLM Playground
-- 🎮 Good visualisation is all you need
-  - [WizMap](https://poloclub.github.io/wizmap/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising large-scale token embeddings.
-  - [Dodrio](https://poloclub.github.io/dodrio/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for attention head summarization and semantic and syntactic knowledge contexts from transformer models.
+### ⚔️ Compare Models
+- [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)  
+- [Artificial Analysis](https://artificialanalysis.ai)  
+- [Sapling Index](https://sapling.ai/llm/index)  
+- [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)  
 
-### Misc
-- 📦 Interesting topics and other stuffs
-  - [ChatGPT: 30 Year History | How AI Learned to Talk](https://youtu.be/OFS90-FX6pg?si=5yf0OhqKnRaeO2js) from [Art of the Problem](https://www.youtube.com/@ArtOfTheProblem) on YouTube.
-  - [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=g3HnvENUDFNW47NE) from [Welch Lab](https://www.youtube.com/@WelchLabsVideo) on YouTube.
-  - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for helping non-experts learn about Convolutional Neural Networks (CNNs).
-  - [NeuroCartography](https://poloclub.github.io/neuro-cartography/) and [Summit](https://fredhohman.com/summit/) from [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/) for visualising image embeddings from ImageNet.
+### 🎮 Playgrounds
+- [WizMap](https://poloclub.github.io/wizmap/) → visualize embeddings  
+- [Dodrio](https://poloclub.github.io/dodrio/) → analyze attention heads  
+
+### 📦 Misc
+- [ChatGPT: 30 Year History](https://youtu.be/OFS90-FX6pg) by Art of the Problem  
+- [The moment we stopped understanding AI (AlexNet)](https://youtu.be/UZDiGooFs54) by Welch Labs  
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)  
+- [NeuroCartography](https://poloclub.github.io/neuro-cartography/) & [Summit](https://fredhohman.com/summit/)  
 
 </details>
